@@ -1,0 +1,24 @@
+.p-tabview .p-tabview-nav {
+  background-color: #7996c4 !important;
+  color: var(--surface-a);
+}
+
+.p-tabview .p-tabview-nav li .p-tabview-nav-link {
+  background-color: #7996c4 !important;
+  color: var(--surface-a);
+}
+
+.p-tabview .p-tabview-nav li.p-highlight .p-tabview-nav-link {
+  background-color: #ffffff !important;
+  color: var(--surface-a);
+}
+
+.p-tabview {
+  border-radius: 12px !important;
+}
+
+.p-dialog .p-dialog-content {
+  overflow: hidden !important;
+}
+
+/*# sourceMappingURL=Style.css.map */

@@ -1,0 +1,30 @@
+.sidebar {
+  border-top: 5px solid var(--primary-color);
+  min-height: 50vh;
+  overflow-y: auto;
+}
+.sidebar .sidebar-header {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.sidebar .sidebar-header .logo {
+  font-size: 15px;
+  font-weight: bold;
+  color: var(--primary-color);
+}
+.sidebar li {
+  display: flex;
+  align-items: center;
+  padding: 6px;
+  cursor: pointer;
+  margin-top: 18px;
+  margin-right: 20px;
+  font-size: 15px;
+}
+.sidebar li:hover {
+  background-color: #95a4bd;
+  color: var(--surface-a);
+}
+
+/*# sourceMappingURL=SideBar.css.map */
